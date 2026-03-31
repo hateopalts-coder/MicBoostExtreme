@@ -1,7 +1,11 @@
 {
   "name": "MicBoostExtreme",
-  "description": "Extreme mic audio processing — Gain, Bass, Distortion, Overdrive. Earrape to EXTREME presets.",
-  "authors": [{ "name": "omkur", "id": "000000000000000000" }],
-  "main": "index.js",
-  "hash": ""
+  "description": "Extreme mic boost with gain, bass, distortion and overdrive",
+  "authors": [
+    {
+      "name": "hateopalts-coder",
+      "id": "0"
+    }
+  ],
+  "main": "index.js"
 }
